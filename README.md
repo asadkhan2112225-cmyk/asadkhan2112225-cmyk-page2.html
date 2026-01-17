@@ -1,4 +1,3 @@
-# asadkhan2112225-cmyk-page2.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
